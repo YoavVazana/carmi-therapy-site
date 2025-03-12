@@ -1,0 +1,17 @@
+.contactSection {
+    background-color: #F0F8FF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 4rem 1rem; /* ריווח מסביב */
+    margin: 0; 
+}
+
+.contactDetails {
+    background-color: #F0F8FF;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 2rem; /* ריווח פנימי */
+    border-radius: 10px; /* פינות מעוגלות */
+    margin: 1rem; /* ריווח מסביב */
+}
